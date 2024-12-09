@@ -12,15 +12,15 @@
 <!--→ Rightwards arrow-->
 <!--← Leftwards arrow-->
 
-Start a new project with `File` → `New…` (or `⌘ N`) and customise as required. There are five core sections to the default layout
+Start a new project with `File` → `New…` (`⌘ N`) and customise as required. There are five core sections to the default layout
 
 1. Toolbox
 1. Tool options
 1. Canvas
-1. Panel for layers, channels, paths, and undo
 1. Panel for brushes, patterns, and gradients
+1. Panel for layers, channels, paths, and undo
 
-The **toolbox**, located at the top left, contains tools for manipulation and selection. Below this are the **tool options**, which allows the current tool to be customised. The **canvas**, the primary editing area in the center, will display the composition. The panel for **layers**, **channels**, **paths**, and **undo** is located at the top right – and finally, below this is the panel for **brushes**, **patterns**, and **gradients**.
+The **toolbox**, located at the top left, contains tools for manipulation and selection. Below this are the **tool options**, which allows the current tool to be customised. The **canvas**, the primary editing area in the center, will display the composition. The panel for **brushes**, **patterns**, and **gradients** is located at the top right – and finally, below this is the panel for **layers**, **channels**, **paths**, and **undo**.
 
 | Tip: |
 | :--- |
@@ -36,6 +36,8 @@ There are four main categories of tool:
 1. **Miscellaneous**: Zooming, defining colors, drawing curves, adding text, etc.
 
 ## Menu bar
+
+To open an existing image as a new composition, navigate to `File` → `Open…` (`⌘ O`). To open an image into the current project as a layer, use `File` → `Open as Layers…` (`⌥ ⌘ O`). To export a composition, navigate to `File` → `Export As…` (`⇧ ⌘ E`). From here, expand the `Select File Type (By Extension)` drop-down, and choose an appropriate file type.
 
 There are two items on the main menu panel that are of particular importance, the `Colors` tab and the `Filters` tab. `Colors` contains an array of common image adjustment tools, including some staples such as:
 
